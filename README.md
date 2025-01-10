@@ -5,7 +5,7 @@ Graphic Designer, Product Development, Video Editor
 ---------------------------------------------------
 
 * 🌍  I'm based in Bandung, Indonesia
-* 🖥️  See my portfolio at [SyDant](http://sydant.github.com)
+* 🖥️  See my portfolio at [SyDant](https://sydant.github.io)
 * ✉️  You can contact me at [shikitemeikato@gmail.com](mailto:shikitemeikato@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Project
 
