@@ -21,19 +21,8 @@ Graphic Designer, Product Development, Video Editor
 
 <p align="left"> <a href="https://www.github.com/SyDant" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/sy.dnt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/shikitemeikato" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=SyDant&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyDant&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-<br/>  
 
-<br/>  
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-<br/>  
-<br />
-------------
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<a href="https://github.com/SyDant" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyDant&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+## Github Stats
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyDant&hide_border=true&layout=compact" align="center" /></div>  
+<br/>
